@@ -1,7 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>pier</groupId>
-  <artifactId>Tp_Dds_SGE</artifactId>
+  <artifactId>Tp_Dds_Alterno</artifactId>
   <version>1</version>
 
   <build>
